@@ -45,8 +45,6 @@ header img {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: auto;
-  height: 20%;
 }
 
 .search {
